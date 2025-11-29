@@ -1,6 +1,6 @@
 ## Steam Games Analysis — Data Visualization Project
 
-CS-Data Visualizations class | Team Project
+CS-Data Visualizations class (Spring2025)| Team Project
 
 This project explores how price, genre, game mode, and free vs. paid status impact user reviews on Steam. 
 Using datasets from Kaggle, my team cleaned, filtered, and visualized the top reviewed Steam games to identify patterns in game popularity and user satisfaction.
