@@ -1,0 +1,50 @@
+﻿Name,Developers,Publishers,Multiplayer?,Genres,Total reviews,Total positive,Total negative,Review score,Review score desc,positive percentual,is_free,Price (USD)
+Tom Clancy's Rainbow Six Siege,['Ubisoft Montreal'],['Ubisoft'],Yes,Shooter,571834,485431,86403,8,Very Positive,84.9,FALSE,19.99
+Grand Theft Auto V,['Rockstar North'],['Rockstar Games'],Yes,Action,551680,460190,91490,8,Very Positive,83.4,FALSE,29.99
+Terraria,['Re-Logic'],['Re-Logic'],Yes,Adventure,543537,531256,12281,9,Overwhelmingly Positive,97.7,FALSE,9.99
+HELLDIVERS 2,['Arrowhead Game Studios'],['PlayStation Publishing LLC'],Yes,Action,543217,441634,101583,8,Very Positive,81.3,FALSE,39.99
+Rust,['Facepunch Studios'],['Facepunch Studios'],Yes,Survival,475673,414683,60990,8,Very Positive,87.2,FALSE,39.99
+Baldur's Gate 3,['Larian Studios'],['Larian Studios'],Yes,RPG,388098,375946,12152,9,Overwhelmingly Positive,96.9,FALSE,59.99
+Among Us,['Innersloth'],['Innersloth'],Yes,RPG,359516,331567,27949,8,Very Positive,92.2,FALSE,4.99
+Stardew Valley,['ConcernedApe'],['ConcernedApe'],Yes,RPG,339059,335383,3676,9,Overwhelmingly Positive,98.9,FALSE,14.99
+Cyberpunk 2077,['CD PROJEKT RED'],['CD PROJEKT RED'],No,Action,318186,276899,41287,8,Very Positive,87,FALSE,59.99
+Phasmophobia,['Kinetic Games'],['Kinetic Games'],Yes,Simulation,316173,304349,11824,9,Overwhelmingly Positive,96.3,FALSE,19.99
+Valheim,['Iron Gate AB'],['Coffee Stain Publishing'],Yes,Adventure,238438,226609,11829,9,Overwhelmingly Positive,95,FALSE,19.99
+Red Dead Redemption 2,['Rockstar Games'],['Rockstar Games'],Yes,Action,222427,202713,19714,8,Very Positive,91.1,FALSE,59.99
+Dead by Daylight,['Behaviour Interactive Inc.'],['Behaviour Interactive Inc.'],Yes,Action,212822,171927,40895,8,Very Positive,80.8,FALSE,19.99
+Call of Duty,"['Treyarch', 'Raven Software', 'Beenox', 'High Moon Studios', 'Activision Shanghai', 'Sledgehammer Games', 'Infinity Ward', 'Demonware', 'Toys for Bob']",['Activision'],Yes,Shooter,211614,123234,88380,5,Mixed,58.2,FALSE,69.99
+Bloons TD 6,['Ninja Kiwi'],['Ninja Kiwi'],Yes,Strategy,200941,195780,5161,9,Overwhelmingly Positive,97.4,FALSE,13.99
+Geometry Dash,['RobTop Games'],['RobTop Games'],No,Adventure,170867,160002,10865,8,Very Positive,93.6,FALSE,4.99
+PAYDAY 2,['OVERKILL - a Starbreeze Studio.'],['Starbreeze Publishing AB'],Yes,Action,169305,148682,20623,8,Very Positive,87.8,FALSE,9.99
+The Forest,['Endnight Games Ltd'],['Endnight Games Ltd'],Yes,Survival,165755,157993,7762,9,Overwhelmingly Positive,95.3,FALSE,19.99
+Fallout 4,['Bethesda Game Studios'],['Bethesda Softworks'],No,RPG,161756,134610,27146,8,Very Positive,83.2,FALSE,19.99
+No Man's Sky,['Hello Games'],['Hello Games'],Yes,Adventure,155999,123318,32681,6,Mostly Positive,79.1,FALSE,59.99
+Deep Rock Galactic,['Ghost Ship Games'],['Coffee Stain Publishing'],Yes,Action,155471,152319,3152,9,Overwhelmingly Positive,98,FALSE,29.99
+Subnautica,['Unknown Worlds Entertainment'],['Unknown Worlds Entertainment'],No,Adventure,154912,150043,4869,9,Overwhelmingly Positive,96.9,FALSE,29.99
+People Playground,['mestiez'],['Studio Minus'],No,Simulation,153039,151266,1773,9,Overwhelmingly Positive,98.8,FALSE,9.99
+Halo: The Master Chief Collection,"['343 Industries', 'Splash Damage', 'Ruffian Games', 'Bungie', 'Saber Interactive']",['Xbox Game Studios'],Yes,Action,147948,136631,11317,8,Very Positive,92.4,FALSE,39.99
+Risk of Rain 2,['Hopoo Games'],['Gearbox Publishing'],Yes,Action,140555,133206,7349,8,Very Positive,94.8,FALSE,24.99
+New World: Aeternum,['Amazon Games'],['Amazon Games'],Yes,RPG,139992,95719,44273,5,Mixed,68.4,FALSE,59.99
+Sea of Thieves: 2024 Edition,['Rare Ltd'],['Xbox Game Studios'],Yes,Adventure,134465,120871,13594,8,Very Positive,89.9,FALSE,39.99
+Palworld,['Pocketpair'],['Pocketpair'],Yes,Adventure,131017,125045,5972,9,Overwhelmingly Positive,95.4,FALSE,29.99
+Hades,['Supergiant Games'],['Supergiant Games'],No,Action,128082,126253,1829,9,Overwhelmingly Positive,98.6,FALSE,24.99
+Undertale,['tobyfox'],['tobyfox'],No,RPG,127245,122812,4433,9,Overwhelmingly Positive,96.5,FALSE,9.99
+Hollow Knight,['Team Cherry'],['Team Cherry'],No,Adventure,123467,119999,3468,9,Overwhelmingly Positive,97.2,FALSE,14.99
+Euro Truck Simulator 2,['SCS Software'],['SCS Software'],Yes,Simulation,121454,118558,2896,9,Overwhelmingly Positive,97.6,FALSE,19.99
+Hogwarts Legacy,['Avalanche Software'],['Warner Bros. Games'],No,Adventure,121078,111575,9503,8,Very Positive,92.2,FALSE,59.99
+Project Zomboid,['The Indie Stone'],['The Indie Stone'],Yes,Simulation,118549,111697,6852,8,Very Positive,94.2,FALSE,19.99
+Raft,['Redbeet Interactive'],['Axolot Games'],Yes,Adventure,117602,110505,7097,8,Very Positive,94,FALSE,19.99
+7 Days to Die,['The Fun Pimps'],['The Fun Pimps Entertainment LLC'],Yes,Survival,112395,99024,13371,8,Very Positive,88.1,FALSE,44.99
+Borderlands 2,"['Gearbox Software', 'Aspyr (Mac)', 'Aspyr (Linux)']","['2K', 'Aspyr (Mac)', 'Aspyr (Linux)']",Yes,Shooter,111774,107290,4484,9,Overwhelmingly Positive,96,FALSE,19.99
+The Elder Scrolls V: Skyrim Special Edition,['Bethesda Game Studios'],['Bethesda Softworks'],No,RPG,109103,103103,6000,8,Very Positive,94.5,FALSE,39.99
+Satisfactory,['Coffee Stain Studios'],['Coffee Stain Publishing'],Yes,Simulation,108878,106151,2727,9,Overwhelmingly Positive,97.5,FALSE,39.99
+Hearts of Iron IV,['Paradox Development Studio'],['Paradox Interactive'],Yes,Strategy,108058,99215,8843,8,Very Positive,91.8,FALSE,49.99
+Monster Hunter: World,"['CAPCOM Co., Ltd.']","['CAPCOM Co., Ltd.']",Yes,Action,106314,97982,8332,8,Very Positive,92.2,FALSE,29.99
+Arma 3,['Bohemia Interactive'],['Bohemia Interactive'],Yes,Shooter,105019,96254,8765,8,Very Positive,91.7,FALSE,29.99
+Call of Duty: Black Ops III,"['Treyarch', 'Aspyr (Mac)']","['Activision', 'Aspyr (Mac)']",Yes,Shooter,103733,93052,10681,8,Very Positive,89.7,FALSE,59.99
+Factorio,['Wube Software LTD.'],['Wube Software LTD.'],Yes,Simulation,102832,101045,1787,9,Overwhelmingly Positive,98.3,FALSE,34.99
+RimWorld,['Ludeon Studios'],['Ludeon Studios'],No,Survival,101851,99850,2001,9,Overwhelmingly Positive,98,FALSE,34.99
+DARK SOULS III,"['FromSoftware, Inc.']","['FromSoftware, Inc.', 'Bandai Namco Entertainment']",Yes,Action,98263,92313,5950,8,Very Positive,93.9,FALSE,59.99
+Sons Of The Forest,['Endnight Games Ltd'],['Newnight '],Yes,Survival,95153,83544,11609,8,Very Positive,87.8,FALSE,29.99
+Ready or Not,['VOID Interactive'],['VOID Interactive'],Yes,Shooter,95099,85398,9701,8,Very Positive,89.8,FALSE,49.99
+Mount & Blade II: Bannerlord,['TaleWorlds Entertainment'],['TaleWorlds Entertainment'],Yes,Strategy,88302,77167,11135,8,Very Positive,87.4,FALSE,49.99
